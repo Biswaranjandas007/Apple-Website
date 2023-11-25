@@ -1,1 +1,1 @@
-# Apple-Clone with fully responsive
+# Apple website clone with fully responsive.
